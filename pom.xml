@@ -46,15 +46,6 @@
 		
 
 
-  	<dependency>
-  		<groupId>com.junit.demo</groupId>
-  		<artifactId>JUNITDEMO</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>cap_gemini</groupId>
-  		<artifactId>cap_gemini</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   </dependencies>
 </project>
